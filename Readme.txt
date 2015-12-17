@@ -1,1 +1,1 @@
-This is my very first webpage. It is a portfolio page that contains my education, background, interests, as well as projects that I have been working on. 
+This is my very first webpage. It is a portfolio page that contains my education, background, interests, as well as projects that I have been working on. I plan on adding Java applets, as well as my CS projects and other work that I plan on doing in the near future. 
