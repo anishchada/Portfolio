@@ -1,0 +1,51 @@
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black; /*#333*/
+}
+
+li {
+    float: left;
+
+}
+
+.main {
+  margin: 0;
+  padding:0;
+}
+
+.center {
+    margin: auto;
+    width: 60%;
+
+    padding: 10px;
+}
+
+
+li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+body {
+  background-color: black;
+}
+
+p {
+  font-family: Verdama;
+  font-size: 20px;
+}
+
+#contact {
+  padding-left: 100px;
+  color: white;
+}
